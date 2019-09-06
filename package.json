@@ -1,5 +1,5 @@
 {
-  "name": "react-native-firebase",
+  "name": "thinktodo-react-native-firebase",
   "private": true,
   "scripts": {
     "prepare": "yarn run lerna:link && lerna run prepare",
